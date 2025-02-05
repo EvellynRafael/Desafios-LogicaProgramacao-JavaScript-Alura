@@ -2,7 +2,7 @@
 Primeiro projeto na trilha Javascript na Alura. 
 
 
-Desafios
+Desafios (App.JS)
 1. Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
 2. Declare uma variável chamada nome e atribua a ela o valor "Lua".
