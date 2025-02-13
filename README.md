@@ -1,5 +1,5 @@
 # Desafios Logica deProgramação com JavaScript CURSO-ALURA
-Primeiro projeto na trilha Javascript na Alura. 
+Atividades da trilha Javascript na Alura. 
 
 
 ## Desafios: Iniciando com JavaScript (App.JS)
